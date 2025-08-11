@@ -37,9 +37,12 @@ It also shows two bar charts:
 ├── Movie_Id_Titles.csv # Mapping of movie IDs to movie titles
 
 ---
+
 ## Run the app
 streamlit run app.py
+
 ---
+
 👨‍💻 Author
 Ayush Dhiman
 📧 Email: harshitd9897@gmail.com
